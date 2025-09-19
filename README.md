@@ -4,7 +4,8 @@
 
 # Análisis de Datos para Marketing Gastronómico 📊
 
-Este proyecto de **Data Science** se centra en el análisis de datos de clientes y restaurantes de la ciudad de Miami, obtenidos a través de la **API de Yelp**. El objetivo principal es identificar patrones de consumo y generar `insights` accionables que puedan guiar decisiones de marketing en la industria gastronómica. Forma parte del proyecto integrador del primer módulo del bootcamp de Data Science de Henry.
+Este proyecto de **Data Science** se centra en el análisis de datos de clientes y restaurantes de la ciudad de Miami, obtenidos a través de la **API de Yelp**. El objetivo principal es identificar patrones de consumo y generar `insights` accionables que puedan guiar decisiones de marketing en la industria gastronómica. Forma parte del proyecto integrador del primer módulo del **bootcamp de Data Science** de Henry.
+
 -----
 
 ### Descripción y Metodología del Proyecto 🧑‍💻
