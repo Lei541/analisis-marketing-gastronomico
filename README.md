@@ -2,10 +2,9 @@
 
 ### `README.md` (Contenido)
 
-# Proyecto Integrador 1: Análisis de Datos para Marketing Gastronómico 📊
+# Análisis de Datos para Marketing Gastronómico 📊
 
-Este proyecto de **Data Science** se centra en el análisis de datos de clientes y restaurantes de la ciudad de Miami, obtenidos a través de la **API de Yelp**. El objetivo principal es identificar patrones de consumo y generar `insights` accionables que puedan guiar decisiones de marketing en la industria gastronómica.
-
+Este proyecto de **Data Science** se centra en el análisis de datos de clientes y restaurantes de la ciudad de Miami, obtenidos a través de la **API de Yelp**. El objetivo principal es identificar patrones de consumo y generar `insights` accionables que puedan guiar decisiones de marketing en la industria gastronómica. Forma parte del proyecto integrador del primer módulo del bootcamp de Data Science de Henry.
 -----
 
 ### Descripción y Metodología del Proyecto 🧑‍💻
@@ -64,14 +63,16 @@ pip install pandas numpy matplotlib seaborn requests ast
 Por motivos de seguridad, la clave de la API de Yelp **no se incluye** en este repositorio. Para ejecutar el cuaderno `Avance_API_Yelp.ipynb`, deberás obtener tu propia clave de la [Yelp Fusion API](https://www.google.com/search?q=https://www.yelp.com/developers/documentation/fusion/get_started) y reemplazar el `token` en el código.
 
 **Archivos de Datos:**
-Por cuestiones de tamaño y confidencialidad, la base de datos de usuarios original y los archivos generados durante el proceso **no están incluidos** en este repositorio. Si deseas reproducir el análisis o necesitas acceso a la base de datos, no dudes en contactarme.
+Por cuestiones de tamaño, la base de datos de usuarios original y los archivos generados durante el proceso **no están incluidos** en este repositorio. Si deseas reproducir el análisis o necesitas acceso a la base de datos, no dudes en contactarme.
 
 -----
 
 ### **Soporte y Contacto** 📞
 
 **Desarrolladora:** Leila Abduca
+
 **Email:** leiabduca@gmail.com
+
 **LinkedIn:** [Leila Abduca](https://linkedin.com/in/leila-abduca )
 
 -----
