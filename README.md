@@ -1,6 +1,6 @@
 -----
 
-### `README.md` (Contenido)
+### Contenido
 
 # Análisis de Datos para Marketing Gastronómico 📊
 
